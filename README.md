@@ -1,5 +1,9 @@
-### Hi there 👋
 
+###Kong !
+-------------
+* Enjoy programming and build awesome stuff.
+
+* Silence makes big money.
 <!--
 **KongF/kongf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
