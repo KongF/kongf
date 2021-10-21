@@ -1,6 +1,6 @@
 
 ### Kong !
--------------
+
 * Enjoy programming and build awesome stuff.
 
 * Silence makes big money.
